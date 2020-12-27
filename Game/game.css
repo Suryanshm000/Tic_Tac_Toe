@@ -21,12 +21,4 @@ body{
   background-color: #d65261;
 }
 
- /* -----  small screen ----- */
 
- @media (max-width:650px){
-   td{
-     height: 120px;
-     width: 120px;
-     font-size: 80px;
-   }
- }

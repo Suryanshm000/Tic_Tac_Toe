@@ -86,7 +86,7 @@
 .win span {
 	display: inline-block;
 	width: 4px; height: 0px;
-	background-color: #339966;
+	background-color: #3F292B;
 	border-radius: 5px;
 	margin-right: 52px;
 	-webkit-animation-name: win;
@@ -117,19 +117,19 @@ body {
 
 @-webkit-keyframes Tic-tac-toe-X {
    	from { color: transparent; }
-	to { color: red; }
+	to { color:#FBFFB9; }
 }
 @keyframes Tic-tac-toe-X {
    	from { color: transparent; }
-	to { color: red; }
+	to { color: #FBFFB9; }
 }
 @-webkit-keyframes Tic-tac-toe-0 {
    	from { color: transparent; }
-	to { color: blue; }
+	to { color:#331832; }
 }
 @keyframes Tic-tac-toe-0 {
    	from { color: transparent; }
-	to { color: blue; }
+	to { color: #331832; }
 }
 @-webkit-keyframes win {
    	from { height: 0; }
@@ -166,7 +166,7 @@ td
 }
 
 .tute{
-  background-color:greenyellow;
+  background-color:#F7F9F9;
 }
 
 
@@ -179,7 +179,7 @@ body{
 }
 .play{
   margin-top: 500px;
-  background-color: greenyellow;
+  background-color: #F7F9F9;
 }
 
 @media(max-width: 600px){
